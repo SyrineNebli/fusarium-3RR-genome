@@ -8,6 +8,9 @@ Bioinformatics pipeline supporting:
 ## Data Availability
 Raw sequencing data: NCBI BioProject [PRJNA1444486](https://www.ncbi.nlm.nih.gov/bioproject/1444486)
 
+## Workflow Adaptation
+Parts of the bioinformatics workflow were based on the protocol described in the Nexomis Eukaryotic de novo Genome Tutorial. The original pipeline was modified and optimized for the present dataset and analytical objectives.
+
 ## Pipeline Overview
 | Step | Notebook | Description |
 |------|----------|-------------|
