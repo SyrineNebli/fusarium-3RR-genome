@@ -1,0 +1,35 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Conda
+.env
+.conda/
+
+# Temporary files
+*.tmp
+*.log
+
+# Large genomic files
+*.fastq
+*.fastq.gz
+*.fq.gz
+*.bam
+*.sam
+*.vcf
+*.fasta
+*.fa
+*.gff
+*.gbk
+
+# Assembly outputs
+results/
+output/
+tmp/
+work/
+
+# OS files
+.DS_Store
