@@ -27,7 +27,7 @@ All tools are run via Apptainer containers. See `environment/dependencies.md`.
 ## Usage
 Clone and set your working directory:
 ```bash
-git clone https://github.com/YOUR_USERNAME/fusarium-oxysporum-3RR-genome.git
+git clone https://github.com/SyrineNebli/fusarium-3RR-genome.git
 cd fusarium-oxysporum-3RR-genome
 export SN=3RR
 export NCPUS=12
