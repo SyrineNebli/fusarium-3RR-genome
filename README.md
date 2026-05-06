@@ -29,7 +29,5 @@ Clone and set your working directory:
 ```bash
 git clone https://github.com/SyrineNebli/fusarium-3RR-genome.git
 cd fusarium-oxysporum-3RR-genome
-export SN=3RR
-export NCPUS=12
 ```
 Then run notebooks in order.
