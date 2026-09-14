@@ -3,7 +3,7 @@
 Bioinformatics pipeline supporting:
 > Nebli et al. (2025) "The endophyte *Fusarium oxysporum* 3RR Genome Analysis 
 > Identifies Bioactive Compounds Targeting Biofilm Formation"  
-> *Frontiers in Microbiology* | DOI: [add when available]
+> *Frontiers in Microbiology* 
 
 ## Data Availability
 Raw sequencing data: NCBI BioProject [PRJNA1444486](https://www.ncbi.nlm.nih.gov/bioproject/1444486)
