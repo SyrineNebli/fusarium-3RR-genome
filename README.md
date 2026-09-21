@@ -1,9 +1,7 @@
 # Fusarium oxysporum 3RR — Genome Analysis Pipeline
 
 Bioinformatics pipeline supporting:
-> Nebli et al. (2025) "The endophyte *Fusarium oxysporum* 3RR Genome Analysis 
-> Identifies Bioactive Compounds Targeting Biofilm Formation"  
-> *Frontiers in Microbiology* 
+Nebli S, Saadaoui O, Gargouri H, Abid C, Jardak M, Djebali F, Loukil S, Marzoug RB, Jlaiel L, Croze S, Lachuer J, Kharrat N and Mnif S (2026) The endophyte Fusarium oxysporum 3RR genome analysis identifies bioactive compounds targeting biofilm formation. Front. Microbiol. 17:1841716. doi: 10.3389/fmicb.2026.1841716
 
 ## Data Availability
 Raw sequencing data: NCBI BioProject [PRJNA1444486](https://www.ncbi.nlm.nih.gov/bioproject/1444486)
